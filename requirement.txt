@@ -1,1 +1,2 @@
-
+Flask==2.3.2  # Or your desired Flask version
+gunicorn==22.0.0 # Recommended for production deployments
